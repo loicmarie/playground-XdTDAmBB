@@ -1,7 +1,9 @@
 title: Bitboards basis
 plan:
 - title: I. Introduction to Bitboards
-  statement: markdowns/introduction.md
+  plan:
+  - title: I.1 Bitboards and simulation
+    statement: markdowns/introduction.md
 projects:
   cpp:
     root: /cpp-project
